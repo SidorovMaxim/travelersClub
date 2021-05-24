@@ -1,8 +1,8 @@
-// description
+// description:
 App for eyelash masters
 
-// stack
+// stack:
 HTML, CSS, JavaScript, React.js
 
-// launch application
+// launch application:
 'npm start'
