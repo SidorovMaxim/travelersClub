@@ -1,5 +1,7 @@
+# Travelers club
+
 // description:
-App for eyelash masters
+One-page travel agency website
 
 // stack:
 HTML, CSS, JavaScript, React.js
