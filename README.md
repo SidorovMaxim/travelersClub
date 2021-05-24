@@ -2,7 +2,7 @@
 App for eyelash masters
 
 // stack
-HTML, CSS, JavaScript, jQuery, Node.js, Express.js, MongoDB
+HTML, CSS, JavaScript, React.js
 
 // launch application
 'npm start'
